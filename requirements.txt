@@ -1,0 +1,10 @@
+cffi==1.17.1
+charset-normalizer==3.4.2
+click==8.2.1
+cryptography==45.0.4
+joblib==1.5.1
+nltk==3.9.1
+pdfminer.six==20250506
+pycparser==2.22
+regex==2024.11.6
+tqdm==4.67.1
